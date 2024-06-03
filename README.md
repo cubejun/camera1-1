@@ -3,4 +3,4 @@ subscriber 노드에서 영상원본을 그레이영상, 이진영상으로 각�
 
 
 # 동작영상
-https://youtu.be/2ycSb8pj9NM?si=35YurC9zt-nSDZLW
+[https://youtu.be/2ycSb8pj9NM?si=35YurC9zt-nSDZLW](https://youtu.be/tehLQUDVD-o)
